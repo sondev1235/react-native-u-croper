@@ -14,6 +14,5 @@
 ```javascript
 import UCroper from 'react-native-u-croper';
 
-// TODO: What to do with the module?
-UCroper;
+let uri = await UCroper.openCropImage(pathFronmDisk, fileName);
 ```
