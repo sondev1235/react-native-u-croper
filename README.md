@@ -7,6 +7,8 @@
 ### Mostly automatic installation
 
 `$ react-native link react-native-u-croper`
+ 
+![Demo](demo.gif)
 
 ## Usage
 ```javascript
